@@ -124,14 +124,15 @@ Financial institutions receive over 6.2 million consumer complaints per year —
 
 
 ## 📁 Repository Structure
-cfpb-risk-analytics/
-├── README.md
-├── notebooks/          ← Python analysis notebook
-├── sql/                ← Analytical SQL queries
-├── images/             ← Charts and visualizations
-└── docs/               ← Executive summary
 
----
+```
+cfpb-risk-analytics/
+├── README.md                      ← Project overview and findings
+├── Final_Code_Compile.ipynb       ← Full analysis pipeline
+├── Risk_Score.ipynb               ← Risk scoring model
+├── images/                        ← Key visualizations
+└── sql/                           ← Supplementary SQL queries
+```
 
 *Domain: Financial Services · Compliance · Risk Analytics*
 *Tools: Python · scikit-learn · NLP · LLM · Logistic Regression*
