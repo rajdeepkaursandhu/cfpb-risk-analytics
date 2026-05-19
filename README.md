@@ -105,6 +105,24 @@ Financial institutions receive over 6.2 million consumer complaints per year —
 
 ---
 
+## 📈 Visual Walkthrough
+
+**1. Complaint Volume Trend (2018–2025)**
+![Complaint Volume Trend](images/Monthly_ComplainVolume.png)
+
+**2. Failure Type Classification — Keyword Matching**
+![Failure Classification](images/FailureTypeDistribution.png)
+
+**3. Margin Gap Threshold — Optimal LLM Routing Decision Point**
+![Margin Gap](images/MarginGapThreshold.png)
+
+**4. Cumulative Gains Chart — Risk Model Performance**
+![Gains Chart](images/GainsChart.png)
+
+**5. Overall Risk Distribution — High / Medium / Low Tiers**
+![Risk Distribution](images/RiskDistribution.png)
+
+
 ## 📁 Repository Structure
 cfpb-risk-analytics/
 ├── README.md
